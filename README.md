@@ -1,2 +1,12 @@
 # py-data-science-basics
-Repository holding jupyter notebooks &amp; data sets for the DIH West workshop "Basisschulung Data Science mit Python"
+
+This repository created by [Max Schirl](https://github.com/mschirl) holds all jupyter notebookls related to the "DIH West Basisschulung mit Python" Workshops.
+
+## Git clone within Docker
+
+Within your docker container's `notebooks/` directory, call
+
+```
+$ git clone https://github.com/mschirl/py-data-science-basics.git
+$ cd machine-learning
+```
