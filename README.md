@@ -8,7 +8,7 @@ Within your docker container's `notebooks/` directory, call
 
 ```
 $ git clone https://github.com/mschirl/py-data-science-basics.git
-$ cd machine-learning
+$ cd py-data-science-basics
 ```
 
 ## Slides
